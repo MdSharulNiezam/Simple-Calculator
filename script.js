@@ -1,3 +1,5 @@
+// Adding comment on JS by PR to check update on Discord
+
 const userInput = document.getElementById("userInput");
 
 var expression = '';
